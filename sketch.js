@@ -46,7 +46,7 @@ function draw() {
 background("white");
   
   
-console.log(monkey.x);
+//console.log(monkey.x);
   
 if (backgroundy.x<150) {
  backgroundy.x= 200
